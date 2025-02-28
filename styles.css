@@ -1,6 +1,8 @@
 /* Set the background color to light blue */
 body {
-    background-color: #ADD8E6; /* Light blue color */
+    background-image: url("/Users/mathilda/Desktop/charli ;))/xcxworld.jpg"); /* Light blue color */
+    background-repeat: repeat; /* This will make the image repeat both horizontally and vertically */
+    background-size: auto; /* Keeps the original size of the image */
     margin: 0; /* Remove default margin */
     padding: 0; /* Remove default padding */
     height: 100vh; /* Full height of the viewport */
