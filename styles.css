@@ -1,37 +1,32 @@
-/* styles.css */
+/* Set the background color to light blue */
 body {
-    font-family: Arial, sans-serif;
-    background-color: #f0f0f0;
-    margin: 0;
-    padding: 0;
+    background-color: #ADD8E6; /* Light blue color */
+    margin: 0; /* Remove default margin */
+    padding: 0; /* Remove default padding */
+    height: 100vh; /* Full height of the viewport */
+    display: flex; /* Use Flexbox to center the content */
+    justify-content: center; /* Align horizontally in the center */
+    align-items: center; /* Align vertically in the center */
+    font-family: Arial, sans-serif; /* Set font */
 }
 
-header {
-    background-color: #333;
-    color: white;
-    padding: 10px;
+/* Style for the content */
+.content {
+    text-align: center; /* Center text inside the div */
+    padding: 20px; /* Add some padding */
+    background-color: white; /* Make background white to contrast */
+    border-radius: 10px; /* Add rounded corners */
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.1); /* Optional: add a shadow for better look */
 }
 
-h1, h2 {
-    text-align: center;
+/* Style for the heading */
+h1 {
+    color: #333; /* Dark gray color for the heading */
+    font-size: 36px; /* Increase font size */
 }
 
-nav ul {
-    list-style: none;
-    padding: 0;
-}
-
-nav ul li {
-    display: inline;
-    margin-right: 20px;
-}
-
-footer {
-    background-color: #333;
-    color: white;
-    text-align: center;
-    padding: 10px;
-    position: absolute;
-    width: 100%;
-    bottom: 0;
+/* Style for the paragraph */
+p {
+    color: #666; /* Lighter gray color for the paragraph */
+    font-size: 18px; /* Font size for the paragraph */
 }
