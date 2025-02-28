@@ -5,11 +5,12 @@ body {
     background-size: 30px 30px; /* Keeps the original size of the image */
     margin: 0; /* Remove default margin */
     padding: 0; /* Remove default padding */
-    height: 100vh; /* Full height of the viewport */
-    display: flex; /* Use Flexbox to center the content */
-    justify-content: center; /* Align horizontally in the center */
-    align-items: center; /* Align vertically in the center */
-    font-family: Arial, sans-serif; /* Set font */
+    /* height: 100vh;  Full height of the viewport */
+    /* display: flex; /* Use Flexbox to center the content */
+    /* justify-content: center; /* Align horizontally in the center */
+    /* align-items: center; /* Align vertically in the center */
+    /* font-family: Arial, sans-serif; /* Set font */
+    
 }
 
 /* Style for the content */
