@@ -2,7 +2,8 @@
 body {
     background-image: url('images/xcx.jpg'), url('images/xcxworld.jpg');
     background-repeat: repeat; /* This will make the image repeat both horizontally and vertically */
-    background-size: auto; /* Keeps the original size of the image */
+    background-size: cover; /* Keeps the original size of the image */
+    background-position: top left, bottom right; /* Position the images */
     margin: 0; /* Remove default margin */
     padding: 0; /* Remove default padding */
     /* height: 100vh;  Full height of the viewport */
