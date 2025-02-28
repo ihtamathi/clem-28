@@ -1,9 +1,9 @@
 /* Set the background color to light blue */
 body {
     background-image: url('images/xcx.jpg'), url('images/xcxworld.jpg');
-    background-repeat: repeat; /* This will make the image repeat both horizontally and vertically */
-    background-size: cover; /* Keeps the original size of the image */
-    background-position: top left, bottom right; /* Position the images */
+    background-repeat: repeat; /* Repeat both images horizontally and vertically */
+    background-size: 50% 100%; /* Each image will take up 50% of the width, 100% of the height */
+    background-position: 0 0, 50% 0; /* Position the first image at the left and the second image at the center */
     margin: 0; /* Remove default margin */
     padding: 0; /* Remove default padding */
     /* height: 100vh;  Full height of the viewport */
