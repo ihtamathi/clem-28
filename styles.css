@@ -2,7 +2,7 @@
 body {
     background-image: url('images/xcx.jpg'), url('images/xcxworld.jpg');
     background-repeat: repeat; /* Repeat both images horizontally and vertically */
-    background-size: 50% 100%; /* Each image will take up 50% of the width and 100% of the height */
+    background-size: 100% 100%; /* Each image will take up 50% of the width and 100% of the height */
     background-position: 0 0, 50% 0; /* Position the first image at the left, second image at the middle */
     margin: 0; /* Remove default margin */
     padding: 0; /* Remove default padding */
