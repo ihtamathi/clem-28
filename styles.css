@@ -1,6 +1,6 @@
 /* Set the background color to light blue */
 body {
-    background-image: url('images/xcxworld.jpg');
+    background-image: url('images/xcx.jpg'), url('images/xcxworld.jpg');
     background-repeat: repeat; /* This will make the image repeat both horizontally and vertically */
     background-size: auto; /* Keeps the original size of the image */
     margin: 0; /* Remove default margin */
