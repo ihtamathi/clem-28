@@ -2,7 +2,7 @@
 body {
     background-image: url('images/xcx.jpg'), url('images/xcxworld.jpg');
     background-repeat: repeat; /* This will make the image repeat both horizontally and vertically */
-    background-size: 30px 30px; /* Keeps the original size of the image */
+    background-size: 50px 50px; /* Keeps the original size of the image */
     margin: 0; /* Remove default margin */
     padding: 0; /* Remove default padding */
     /* height: 100vh;  Full height of the viewport */
@@ -10,7 +10,7 @@ body {
     /* justify-content: center; /* Align horizontally in the center */
     /* align-items: center; /* Align vertically in the center */
     /* font-family: Arial, sans-serif; /* Set font */
-    
+
 }
 
 /* Style for the content */
